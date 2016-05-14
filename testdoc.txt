@@ -1,0 +1,4 @@
+# created 20160514T142017-05:00
+# author: chrisash
+
+This is just a test doc, written in MacVim, to put in the local github/hello-world directory. Just to see what it does, and try getting a feeling for how all of these things work together.
